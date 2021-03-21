@@ -57,11 +57,12 @@ That it is one of the few highly prestigious and well-paid careers that we can t
 
 We do NOT have to be a whiz in math and science to be a coder. There are different types of programming. Some involves complex problem-solving, but others could merely just be artistic and creative. 
 
-With my simple story, I just want to encourage girls to belive in yourself, and not let others defines who you are. Please, if you’re also considering a career change, if you want a new path or new opportunity, consider coding. 
+With my simple story, I just want to encourage girls to belive in yourself, and not let others define who you are. Please, if you’re also considering a career change, if you want a new path or new opportunity, consider coding. 
 
 Is it difficult? Yes, and no. Life as a developer takes serious willpower, discipline, and resiliency. But you are never alone. We are all here for you. 
 
 ![20210321-We-are-here-for-you](../assets/images/20210321-We-are-here-for-you.jpeg)  
 
 At last, I would like to share this coding course with you all, who might be intersted in joining this journey with me. Feel free to look it up. 
-<iframe frameborder="0" src="http://t.cn/A6tdAf31?m=4616596897138469&u=1826648747" allowFullScreen="true"></iframe>
+
+<iframe frameborder="0" src="https://t.cn/A6tdAf31?m=4616596897138469&u=1826648747" allowFullScreen="true"></iframe>
