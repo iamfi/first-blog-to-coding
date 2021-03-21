@@ -2,7 +2,7 @@
 layout: post
 title:  "My story of coding"
 image:
-  feature: 20210321-girl-code.jpeg
+  feature: 20210321-girl-code-copy.png
   topPosition: -200px
 bgContrast: dark
 bgGradientOpacity: darker
